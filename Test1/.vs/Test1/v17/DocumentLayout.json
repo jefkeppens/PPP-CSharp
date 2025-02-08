@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\32468\\source\\repos\\Test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A5C7C34-F4D1-45F1-B086-34CFC1E51F34}|Test1\\Test1.vcxproj|C:\\Users\\32468\\source\\repos\\Test1\\Test1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A5C7C34-F4D1-45F1-B086-34CFC1E51F34}|Test1\\Test1.vcxproj|solutionrelative:Test1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A5C7C34-F4D1-45F1-B086-34CFC1E51F34}|Test1\\Test1.vcxproj|C:\\Users\\32468\\source\\repos\\Test1\\Test1\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A5C7C34-F4D1-45F1-B086-34CFC1E51F34}|Test1\\Test1.vcxproj|solutionrelative:Test1\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C7C34-F4D1-45F1-B086-34CFC1E51F34}|Test1\\Test1.vcxproj|C:\\Users\\32468\\source\\repos\\Test1\\Test1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A5C7C34-F4D1-45F1-B086-34CFC1E51F34}|Test1\\Test1.vcxproj|solutionrelative:Test1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 87,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\32468\\source\\repos\\Test1\\Test1\\main.cpp",
               "RelativeDocumentMoniker": "Test1\\main.cpp",
               "ToolTip": "C:\\Users\\32468\\source\\repos\\Test1\\Test1\\main.cpp",
               "RelativeToolTip": "Test1\\main.cpp",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-04T13:19:31.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main2.cpp",
               "DocumentMoniker": "C:\\Users\\32468\\source\\repos\\Test1\\Test1\\main2.cpp",
               "RelativeDocumentMoniker": "Test1\\main2.cpp",
               "ToolTip": "C:\\Users\\32468\\source\\repos\\Test1\\Test1\\main2.cpp",
               "RelativeToolTip": "Test1\\main2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-04T10:54:30.991Z",
               "EditorCaption": ""

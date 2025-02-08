@@ -2,7 +2,7 @@
 #include <SFML/Audio.hpp>
 #include <iostream>
 
-int main2() {
+int main() {
 	sf::RenderWindow window(sf::VideoMode(800, 600), "SFML Window");
 
 	//window.setVerticalSyncEnabled(true);

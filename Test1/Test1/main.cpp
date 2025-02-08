@@ -3,7 +3,7 @@
 #include <iostream>
 #include <sstream>
 
-int main() {
+int main3() {
 	sf::RenderWindow window(sf::VideoMode(800, 600), "SFML Window");
 
 	//window.setVerticalSyncEnabled(true);
