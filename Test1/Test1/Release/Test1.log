@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\32468\source\repos\Test1\Test1\main.cpp(130,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\32468\source\repos\Test1\Test1\main.cpp(150,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\32468\source\repos\Test1\Test1\main.cpp(153,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\32468\source\repos\Test1\Test1\main.cpp(153,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main2.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 134 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Test1.vcxproj -> C:\Users\32468\source\repos\Test1\Release\Test1.exe
